@@ -1,0 +1,29 @@
+Reading database.xlsx
+Successfully read database with 1017 targets
+Database columns: ['Source', 'SGOUS', 'GOUS', 'MOUS_TM1', 'MOUS_TM2', 'MOUS_7M']
+
+Checking for existing FITS files CSV: fits_cont_files_found.csv
+Loaded 1816 FITS files from fits_cont_files_found.csv
+Using existing FITS files from fits_cont_files_found.csv
+Found 1816 FITS files from CSV
+
+Start to check source-MOUS-FITS 
+Processing sources...
+
+Checking Statistics:
+Total sources: 1017
+----------------------------------------
+7M  : 1009 found,    8 missing (99.2%)
+TM1 :   89 found,  928 missing (8.8%)
+TM2 :  718 found,  299 missing (70.6%)
+
+Sources with all 3 configurations: 88/1017 (8.7%)
+
+Mapping saved to almagal_source_mous_checking.json
+Total entries: 1017
+Summary saved to almagal_source_mous_checking.csv
+
+Results has been stored in JSON file almagal_source_mous_checking.json and CSV file almagal_source_mous_checking.csv
+FITS files information has been stored in CSV file fits_cont_files_found.csv
+
+Checking completed successfully!

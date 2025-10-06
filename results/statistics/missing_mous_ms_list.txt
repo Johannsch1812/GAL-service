@@ -1,0 +1,29 @@
+Missing MOUS IDs for MS Data
+==================================================
+
+MS missing MOUS:
+  uid___A001_X1467_X1e5
+  uid___A001_X1467_X1f1
+  uid___A001_X1467_X1f8
+  uid___A001_X1467_X1ff
+  uid___A001_X1467_X206
+  uid___A001_X1467_X20d
+  uid___A001_X1467_X214
+  uid___A001_X1467_X21b
+  uid___A001_X1467_X222
+  uid___A001_X1467_X229
+  uid___A001_X1467_X230
+  uid___A001_X1467_X237
+  uid___A001_X146c_X9e
+  uid___A001_X146c_Xa5
+  uid___A001_X146c_Xac
+  uid___A001_X146c_Xb7
+  uid___A001_X146c_Xba
+  uid___A001_X146c_Xca
+  uid___A001_X146c_Xcf
+  uid___A001_X146c_Xd6
+  uid___A001_X146c_Xdd
+  uid___A001_X146c_Xdf
+  uid___A001_X146c_Xe4
+  uid___A001_X146c_Xeb
+  uid___A001_X146c_Xf9

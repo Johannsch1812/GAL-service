@@ -1,0 +1,684 @@
+[
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_X96",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_X9b",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_X9b/uid___A002_Xe1d2cb_Xe594/uid___A002_Xe1d2cb_Xe594.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_X97",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_X97/uid___A002_Xeaae1d_X59da/uid___A002_Xeaae1d_X59da.ms",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_X99",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_X99/uid___A002_Xe2ada9_X19849/uid___A002_Xe2ada9_X19849.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_X9d",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xa2",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xa2/uid___A002_Xe20b32_X84e7/uid___A002_Xe20b32_X84e7.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_X9e",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xa0",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xa0/uid___A002_Xe2ada9_X196b1/uid___A002_Xe2ada9_X196b1.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xa4",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xa9",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xa9/uid___A002_Xe1d2cb_X5ec2/uid___A002_Xe1d2cb_X5ec2.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xa5",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xa7",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xa7/uid___A002_Xe50c9e_Xfb3e/uid___A002_Xe37224_X106c8.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xab",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xb0",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xb0/uid___A002_Xe247d0_X2f14/uid___A002_Xe220f2_X729c.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xac",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xae",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xae/uid___A002_Xe37224_X10384/uid___A002_Xe37224_X10384.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xb2",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xb7",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xb3",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xb3/uid___A002_Xeaae1d_X952c/uid___A002_Xe1baa0_X8721.ms",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xb5",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xb5/uid___A002_Xe2ada9_X19738/uid___A002_Xe2ada9_X19738.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xb9",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xbe",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xbe/uid___A002_Xe2ada9_Xe803/uid___A002_Xe20b32_X8967.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xba",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xbc",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xbc/uid___A002_Xe2ada9_X1994b/uid___A002_Xe2ada9_X1994b.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xc0",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xc5",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xc5/uid___A002_Xe247d0_Xd1db/uid___A002_Xe230a1_X8333.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xc1",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xc1/uid___A002_Xeaff9c_X12f0/uid___A002_Xe850fb_Xc7b4.ms",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xc3",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xc3/uid___A002_Xe407cf_X153f0/uid___A002_Xe3da01_X621b.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xc7",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xcc",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xcc/uid___A002_Xe32bed_X3b0/uid___A002_Xe2ada9_Xa4c7.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xc8",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xc8/uid___A002_Xeb6c00_Xde7/uid___A002_Xeaff9c_X3727.ms",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xca",
+      "ms_data_url": null,
+      "ms_check": 0
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xce",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xd3",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xd3/uid___A002_Xe407cf_X15c4d/uid___A002_Xe34c04_X2e7.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xcf",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xd1",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xd1/uid___A002_Xf6c53e_X2463/uid___A002_Xe539c7_Xff08.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xd5",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xda",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xda/uid___A002_Xe27761_X4410/uid___A002_Xe247d0_X124b4.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xd6",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xd8",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xd8/uid___A002_Xe3da01_X5d44/uid___A002_Xe3da01_X5d44.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xdc",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xe1",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xe1/uid___A002_Xe64b7b_X8881/uid___A002_Xe48598_X103c3.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xdd",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xdf",
+      "ms_data_url": null,
+      "ms_check": 0
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xe3",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xe8",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xe8/uid___A002_Xe4f0a6_X647a/uid___A002_Xe48598_X17cee.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xe4",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xe6",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xe6/uid___A002_Xf82791_Xb21/uid___A002_Xe5ed76_X6d82.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xea",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xef",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xef/uid___A002_Xe48598_X298e0/uid___A002_Xe2ada9_X7d2e.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xeb",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xed",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xed/uid___A002_Xe5ed76_X5aa3/uid___A002_Xe3da01_X4a34.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xf1",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xf6",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xf6/uid___A002_Xe34c04_Xf76a/uid___A002_Xe247d0_Xaccd.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xf2",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xf2/uid___A002_Xeaff9c_X31b6/uid___A002_Xeae3c6_X2b5e.ms",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xf4",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xf4/uid___A002_Xe34c04_X10e07/uid___A002_Xe34c04_X10e07.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X146c_X95",
+    "GOUS": "uid___A001_X146c_Xf8",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X146c_Xfd",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xfd/uid___A002_Xe407cf_X1b7e4/uid___A002_Xe407cf_X14986.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X146c_Xf9",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X146c_Xfb",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X146c_Xfb/uid___A002_Xe3da01_X45e0/uid___A002_Xe3a5fd_X17dd6.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1d4",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X1d9",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1d9/uid___A002_Xe20b32_X1ba/uid___A002_Xe20b32_X1ba.1671321266/uid___A002_Xe20b32_X1ba.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1d5",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1d5_calibrated_final.ms/",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X1d7",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1d7/uid___A002_Xe20b32_X6541/uid___A002_Xe20b32_X6541.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1db",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X1e0",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1e0/uid___A002_Xe220f2_X1f91/uid___A002_Xe20b32_X6322.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1dc",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1dc_calibrated_final.ms/",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X1de",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1de/uid___A002_Xe220f2_X25d6/uid___A002_Xe20b32_X66f8.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1e2",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X1e7",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1e7/uid___A002_Xe7ca5a_X104a3/uid___A002_Xe29133_X8283.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1e3",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1e3_calibrated_final.ms/",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X1e5",
+      "ms_data_url": null,
+      "ms_check": 0
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1e9",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X1ee",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1ee/uid___A002_Xe44309_X5e7b/uid___A002_Xe37224_X86b0.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1ea",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1ea_calibrated_final.ms/",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X1ec",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1ec/uid___A002_Xe2ada9_X124f9/uid___A002_Xe2ada9_X121c8.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1f0",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X1f5",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1f5/uid___A002_Xe220f2_X129b/uid___A002_Xe220f2_X129b.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1f1",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X1f3",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1f3/uid___A002_Xe2ada9_X92ea/uid___A002_Xe2ada9_X92ea.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1f7",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X1fc",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1fc/uid___A002_Xe31981_X94f7/uid___A002_Xe2eefc_X12300.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1f8",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X1fa",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X1fa/uid___A002_Xe7ca5a_X3ee5/uid___A002_Xe64b7b_X25214.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X1fe",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X203",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X203/uid___A002_Xe1baa0_X7c79/uid___A002_Xe1baa0_X7c79.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X1ff",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X201",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X201/uid___A002_Xe220f2_X58a4/uid___A002_Xe220f2_X58a4.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X205",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X20a",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X20a/uid___A002_Xe2ada9_Xf07e/uid___A002_Xe2ada9_Xf07e.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X206",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X208",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X208/uid___A002_Xe29133_Xd152/uid___A002_Xe29133_Xd152.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X20c",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X211",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X211/uid___A002_Xe29133_Xd081/uid___A002_Xe1f219_X3286.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X20d",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X20f",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X20f/uid___A002_Xe230a1_X3bca/uid___A002_Xe230a1_X3bca.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X213",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X218",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X218/uid___A002_Xe20b32_X8657/uid___A002_Xe20b32_X8657.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X214",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X216",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X216/uid___A002_Xe230a1_X3c97/uid___A002_Xe230a1_X3c97.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X21a",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X21f",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X21f/uid___A002_Xe1d2cb_X5af5/uid___A002_Xe1d2cb_X5af5.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X21b",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X21d",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X21d/uid___A002_Xe29133_Xc7cc/uid___A002_Xe29133_Xc7cc.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X221",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X226",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X226/uid___A002_Xe2ada9_X195c1/uid___A002_Xe247d0_X1982.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X222",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X224",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X224/uid___A002_Xe31981_X100df/uid___A002_Xe31981_X100df.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X228",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X22d",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X22d/uid___A002_Xe2eefc_X10ff7/uid___A002_Xe2ada9_X1248c.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X229",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X22b",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X22b/uid___A002_Xe2ada9_X11271/uid___A002_Xe2ada9_X11271.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X22f",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X234",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X234/uid___A002_Xe3da01_X3e25/uid___A002_Xe37224_X7beb.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X230",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X232",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X232/uid___A002_Xe34c04_X11381/uid___A002_Xe32bed_X109fc.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X236",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X23b",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X23b/uid___A002_Xe1f219_Xc944/uid___A002_Xe1f219_Xc944.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X237",
+      "ms_data_url": null,
+      "ms_check": 0
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X239",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X239/uid___A002_Xe31981_X10d57/uid___A002_Xe31981_X10d57.ms",
+      "ms_check": 1
+    }
+  },
+  {
+    "SGOUS": "uid___A001_X1467_X1d3",
+    "GOUS": "uid___A001_X1467_X23d",
+    "7M": {
+      "CONFIG": "7M",
+      "MOUS": "uid___A001_X1467_X242",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X242/uid___A002_Xe29133_X5ae9/uid___A002_Xe230a1_X4315.ms",
+      "ms_check": 1
+    },
+    "TM1": {
+      "CONFIG": "TM1",
+      "MOUS": "uid___A001_X1467_X23e",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X23e/uid___A002_Xed9025_X68bb/uid___A002_Xed9025_X6407.ms",
+      "ms_check": 1
+    },
+    "TM2": {
+      "CONFIG": "TM2",
+      "MOUS": "uid___A001_X1467_X240",
+      "ms_data_url": "https://casdc.china-vo.org/mirror/ALMAGAL/2019.1.00195.L/MS/uid___A001_X1467_X240/uid___A002_Xe2ada9_X19d94/uid___A002_Xe2ada9_X19d94.ms",
+      "ms_check": 1
+    }
+  }
+]
